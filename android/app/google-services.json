@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245845862725",
+    "project_id": "mymine1925",
+    "storage_bucket": "mymine1925.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245845862725:android:b3b7d41cb4d6b892d9b62c",
+        "android_client_info": {
+          "package_name": "com.jego.mymine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDZ6ta0aEKNc6_MrqE0XLXqaU07pi324c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
