@@ -113,6 +113,6 @@ class AuthRepository {
     print("Token deleted successfully.");
 
     // Navigate to the signup screen
-    Navigator.pushReplacementNamed(context, '/signup');
+    Navigator.pushReplacementNamed(context, '/signin');
   }
 }
